@@ -1,4 +1,4 @@
-# MXCX - Base course
+# Materials, Manufacturing Process Application and Operation
 
 Welcome to the ACTEA base course layout. These course is created to bootstrap all the courses in the ACTEA project. 
 
